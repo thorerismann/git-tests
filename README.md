@@ -1,2 +1,2 @@
 # git-tests
-Repository for testing git features
+<p> Repository for testing git features </p>
