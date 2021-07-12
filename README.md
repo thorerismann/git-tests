@@ -1,7 +1,8 @@
 # git-tests
 <p> Repository for testing git features </p>
 
-(below readme format guide from github guides: https://guides.github.com/features/wikis/)
+## below readme format guide from github guides: https://guides.github.com/features/wikis/
+
 READMEs generally follow one format in order to immediately orient developers to the most important aspects of your project.
 
    * Project name: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
