@@ -4,7 +4,6 @@ I've been using the [editor on GitHub](https://github.com/thorerismann/git-tests
 
 ### Jekyll Themes
 
-
 I selected the Architect Jekyll theme from the [repository settings](https://github.com/thorerismann/git-tests/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file, but does changing the 'config.yml' file change the theme or do I need to go through the settings tab?
 
 ### Support or Contact
